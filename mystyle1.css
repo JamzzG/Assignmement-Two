@@ -1,0 +1,31 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color:white;
+}
+
+mark{
+    background-color: blue;
+    color:white;
+    font-weight: 900;
+}
+
+h1{
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-decoration: underline blue 20px;
+    text-align: center;
+    text-shadow: 4px 2px rgb(19, 19, 214)
+}
+
+h2{
+    text-align: center;
+}
+
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 550;
+    text-transform: uppercase;
+    }
+
+marquee{background-color: blue;}
